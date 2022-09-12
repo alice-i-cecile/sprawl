@@ -29,7 +29,7 @@ std = ["num-traits/std"]
 serde = ["dep:serde"]
 
 [dev-dependencies]
-criterion = "0.3"
+criterion = "0.4"
 
 [profile.release]
 lto = true
